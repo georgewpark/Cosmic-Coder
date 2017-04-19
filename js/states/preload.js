@@ -77,7 +77,7 @@ preloadState.prototype = {
         this.load.image('ship_damage', 'assets/images/ship_damage.png');
         this.load.image('space_small', 'assets/images/tile_space_small.png');
         this.load.image('space', 'assets/images/tile_space.png');
-        this.load.image('ground', 'assets/images/tile_ground.png');
+        this.load.image('ground', 'assets/images/tile_ground.PNG');
         this.load.image('planet', 'assets/images/planet.png');
         this.load.image('ident_1', 'assets/images/ident_level_1.png');
         this.load.image('ident_2', 'assets/images/ident_level_2.png');
